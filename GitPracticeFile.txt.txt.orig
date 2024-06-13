@@ -1,0 +1,7 @@
+This file is for only practice of git command like Push, Pull, Commit
+
+<<<<<<< .merge_file_aEKGz9
+This is for practice of merging two branch (GitMergingPracticeBranch ==> Main)
+=======
+This is for practice of merging two branch (GitMergingPracticeBranch ===> Main)
+>>>>>>> .merge_file_TyGSmj
